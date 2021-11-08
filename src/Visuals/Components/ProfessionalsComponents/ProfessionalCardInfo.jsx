@@ -15,7 +15,7 @@ function ProfessionalCardInfo({biography, professionalData, schedule}) {
     const bioclass = 'text-gray-500 font-semibold flex items-start justify-center text-xl'
     const profileclass = 'text-gray-800 font-bold text-xl flex justify-start mb-2'
     const profileP='text-gray-500 font-semibold text-lg ml-4'
-    const scheduleclass = 'flex justify-start items-center text-green-600 text-2xl font-semibold mb-1' 
+    // const scheduleclass = 'flex justify-start items-center text-green-600 text-2xl font-semibold mb-1' 
 
     return (
         <div className='flex flex-col'>
